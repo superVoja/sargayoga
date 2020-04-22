@@ -15,6 +15,9 @@
     "nuxt": "^2.4.0"
   },
   "devDependencies": {
-    "nodemon": "^1.18.9"
+    "@nuxtjs/style-resources": "^1.0.0",
+    "node-sass": "^4.13.1",
+    "nodemon": "^1.18.9",
+    "sass-loader": "^8.0.2"
   }
 }
